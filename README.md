@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nicolextong
 - 👀 I’m interested in creating functional and accessible websites!
 - 🌱 I’m currently learning how to use HTML and CSS.
-- 💞️ I’m looking to collaborate on anything!
+- 💞️ I’m looking to collaborate on anything and everything!
 - 📫 How to reach me: nicolevtong@gmail.com
 
 <!---
